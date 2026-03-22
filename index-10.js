@@ -66,6 +66,6 @@ repeatMessage(5, (i) => console.log(`Square of ${i} is ${i * i}`));
 
 /*
  * ===============
- *   END OF HW-9
+ *   END OF HW-10
  * ===============
  */
